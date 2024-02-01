@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--
+- Hi, I'm Sage
+- she/her
+- I'm a nerd who's slowly losing her mind
