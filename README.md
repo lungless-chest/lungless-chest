@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - Hi, I'm Sage
 - she/her
-- I'm a nerd who's slowly losing her mind
+- I'm a cybersecurity student
+- learning all about cybersecurity, networking, and linux
+- losing it
